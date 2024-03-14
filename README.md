@@ -29,7 +29,7 @@ To get the Hoobank Modern Website up and running on your local machine, follow t
 
 1. Clone the repository:
    ```bash
-      git clone https://github.com/Andrew-Tsegaye/Hoobank_modern_website.git
+      git clone https://github.com/coramdeo59/Hoobank_modern_website.git
    ```
 2. Change to the project directory:
     ```shell
